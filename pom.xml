@@ -96,4 +96,12 @@
 	  	</snapshotRepository>
 	</distributionManagement-->
 	
+	<distributionManagement>
+	   	<repository>
+	     	<id>spring-core</id>
+	     	<name>GitHub OWNER Apache Maven Packages</name>
+	     	<url>https://maven.pkg.github.com/ddominguezh/spring-core</url>
+	   	</repository>
+	</distributionManagement>
+	
 </project>
